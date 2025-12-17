@@ -7,8 +7,8 @@ public class Question10_2 {
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("1~12を入力してください");
-		int manth = sc.nextInt();
-		switch (manth) {
+		int month = sc.nextInt();
+		switch (month) {
 		case 12:
 		case 1:
 		case 2:
